@@ -6,7 +6,7 @@ permalink: /ring-tap/privacy/
 # Privacy Policy — RING TAP
 
 **Effective date:** July 12, 2026
-**Last updated:** September 1, 2026
+**Last updated:** September 2, 2026
 
 This Privacy Policy describes how RING TAP ("the App", "we", "us") collects, uses,
 and shares information when you use the App.
@@ -123,6 +123,14 @@ of receiving your request.
 - The best score saved locally on your own device. It is not part of your account
   and never leaves the device. Uninstalling the app removes it.
 - Aggregate, non-identifying statistics that cannot be traced back to you.
+
+### When it is deleted
+
+Your account and the data listed above are removed from our active systems
+**immediately** when you delete in the app, or **within 30 days** of us receiving
+an emailed request. Copies held in our provider's encrypted backups are purged on
+their normal rotation and in no case are retained longer than **30 days** after
+deletion. We keep no identifying data about you after that point.
 
 Deleting your account does not require you to stop using RING TAP. The next time
 you open the app, a fresh anonymous account is created and you can play normally.
